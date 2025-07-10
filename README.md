@@ -13,5 +13,9 @@ El objetivo del proyecto fue poner en práctica conocimientos fundamentales de d
 🚫 **Este proyecto NO es responsive.**  
 Está diseñado específicamente para verse correctamente en pantallas de escritorio.
 
+## Ver el sitio web
+🌐 Podés visitar el sitio en el siguiente enlace:  
+[https://gioriof.github.io/furniroom-web/](https://gioriof.github.io/furniroom-web/)
+
 ## Autor
 Giovanna Iorio
